@@ -9,7 +9,7 @@ last_name: Du
 email: sharondu98@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Sharon Du
-footer_text: (c) 2022
+footer_text: 
 keywords:   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
