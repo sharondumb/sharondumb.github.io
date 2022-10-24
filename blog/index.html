@@ -5,7 +5,7 @@ pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 10
   sort_field: date
   sort_reverse: true
   trail:
@@ -15,10 +15,10 @@ pagination:
 
 <div class="post">
 
-  <div class="header-bar">
+  <!-- <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
-  </div>
+  </div> -->
 
   {% if site.display_tags %}
   <div class="tag-list">
@@ -38,17 +38,17 @@ pagination:
   <ul class="post-list">
     {% for post in paginator.posts %}
 
-    {% if post.external_source == blank %}
+    <!-- {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-    {% endif %}
+    {% endif %} -->
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
     <li>
-      <h3>
+      <h4>
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% else %}
@@ -61,7 +61,7 @@ pagination:
             <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
           {% endif %}
         {% endif %}
-      </h3>
+      </h4>
       <p>{{ post.description }}</p>
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
