@@ -7,5 +7,11 @@ tags:
 categories: 
 ---
 
-
+1. Journalism
+2. Meritocracy
+3. Longtermism
+4. Cops
+5. "Economics"
+6. Keeping my water bottle clean. I like drinking mold juice
+7. 
 
