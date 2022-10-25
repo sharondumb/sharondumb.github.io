@@ -17,5 +17,4 @@ categories:
 8. Optimizing
 9. Mummies
 10. Supposed Mao-Xi similarities
-11. Self-help, psychologization of inequity, delusions of economic/emotional self-reliance
-12. "Intelligence" as virtue
+11. Self-help, personal finance, etc.

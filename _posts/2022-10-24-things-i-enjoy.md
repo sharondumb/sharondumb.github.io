@@ -17,7 +17,7 @@ TV shows: The Wire (2002-2008), Bojack Horseman (2014-2020).
 
 Artwork: Gareth Sansom’s “Sweeney Agonistes” (2005), Sun Yuan and Peng Yu’s “Dogs That Cannot Touch Each Other (2003).
 
-Literature: Eavan Boland’s “Atlantis: A Lost Sonnet,” Zamora Linmark’s “Rolling the R’s," Gustave Flaubert's "Madame Bovary," Junot Diaz's "Nilda."
+Literature: Eavan Boland’s “Atlantis: A Lost Sonnet,” Zamora Linmark’s “Rolling the R’s," Gustave Flaubert's "Madame Bovary."
 
 Films: Farewell my Concubine (1993), The Passion of Joan of Arc (1928), Memories of Murder (2003).
 
