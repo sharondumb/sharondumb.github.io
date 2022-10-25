@@ -17,4 +17,4 @@ categories:
 8. Optimizing
 9. Mummies
 10. Supposed Mao-Xi similarities
-11. Self-help, personal finance, etc.
+11. Self-help
