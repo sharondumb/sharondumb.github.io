@@ -13,7 +13,7 @@ Smells: Vanilla, petrol, rain.
 
 Animal: Chinese pastoral dogs （中华田园犬）
 
-TV shows: The Wire (2002-2008), Bojack Horseman (2014-2020), Chernobyl miniseries (2019).
+TV shows: The Wire (2002-2008), Bojack Horseman (2014-2020), Chernobyl (2019).
 
 Artwork: Gareth Sansom’s “Sweeney Agonistes” (2005), Sun Yuan and Peng Yu’s “Dogs That Cannot Touch Each Other (2003).
 
