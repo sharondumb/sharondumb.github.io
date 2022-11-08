@@ -16,5 +16,6 @@ categories:
 7. Personal finance
 8. Optimizing
 9. Mummies 
-10. Supposed Mao-Xi similarities
-11. Self-help
+10. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
+12. Social atomism, self-help
+13. Civility and professionalism
