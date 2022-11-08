@@ -17,5 +17,5 @@ categories:
 8. Optimizing
 9. Mummies 
 10. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
-12. Social atomism
+12. Individual as unit of analysis
 13. Self-help
