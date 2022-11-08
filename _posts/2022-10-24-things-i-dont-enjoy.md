@@ -15,6 +15,6 @@ categories:
 6. Star Wars
 7. Personal finance
 8. Optimizing
-9. Mummies
+9. Mummies 
 10. Supposed Mao-Xi similarities
 11. Self-help
