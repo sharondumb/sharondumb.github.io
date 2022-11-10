@@ -1,7 +1,7 @@
 ---
 layout: page
 title: contact
-header: Contact me if you dare.
+header: Contact me!
 permalink: /contact
 subtitle: 
 
