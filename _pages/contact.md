@@ -7,4 +7,7 @@ subtitle:
 
 nav: true
 ---
-
+Contact me if you dare.
+Email: [sharondu@alumni.stanford.edu](mailto:sharondu@alumni.stanford.edu)
+Twitter: [@SharonDu18](https://twitter.com/SharonDu18)
+Instagram: [@sharondumb](https://www.instagram.com/sharondumb/)
