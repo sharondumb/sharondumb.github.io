@@ -10,12 +10,11 @@ categories:
 1. Meritocracy
 2. Longtermism
 3. Cops
-4. Economics imperialism
+4. Economic imperialism (as in Lazear)
 5. Keeping my water bottle clean
 6. Star Wars
 7. Personal finance
 8. Optimizing
 9. Mummies 
 10. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
-12. Psychologization
-13. Self-help
+11. Self-help
