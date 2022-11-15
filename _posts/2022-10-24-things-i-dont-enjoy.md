@@ -18,4 +18,4 @@ categories:
 9. Mummies 
 10. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
 11. Self-help
-12. Dusting
+12. Wiping dust off surfaces
