@@ -13,6 +13,11 @@ Q. What has never made sense to you?
 A. I once walked past a couple. I heard him say to her, "Um, so did you know, babies are born without knees?" She said nothing and kept holding his hand. People can really love like that! 
 
 
+Q. What are you grateful for?
+
+A. There were some heirloom tomatoes for sale in New York City, and the sign above them read "Ugly Tomatoes." I felt grateful that tomatoes couldn't read.
+
+
 Q. Favourite historical figure?
 
 A. Gen Rakra, a Chushi Gangdrug guerrilla fighter from Lithang county. He is best known as the leader of the "Blue Satchel Raid," one of the most important U.S. intelligence coups of the 20th century. 
@@ -27,9 +32,9 @@ Q. Thoughts on the U.S. progressive movement?
 A. I suspect that they have rejected Marxism because it doesn't provide enough moral denunciation for them. 
 
 
-Q. An unpopular opinion?
+Q. Unpopular opinion?
 
-A. Factionalization, mobilization, and behaviour during the Cultural Revolution was so defensive and reactive that China was less ideological, rather than more. 
+A. Factionalization, mobilization, and behaviour during the Cultural Revolution were so defensive and reactive that China was less ideological, rather than more. 
 
 
 Q. Your biggest flaw?
