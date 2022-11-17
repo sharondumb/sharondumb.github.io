@@ -8,17 +8,19 @@ categories:
 ---
 
 
-*Q. What has never made sense to you?*
+**Q. What has never made sense to you?**
 
 I walked past a couple once. I heard him say to her, "Um, so did you know, babies are born without knees?" Not kneecaps, knees. She said nothing and kept holding his hand. People can really love like that! 
 
+<br/>
 
-*Q. What are you grateful for?*
+**Q. What are you grateful for?**
 
 There were some heirloom tomatoes for sale, and the sign above them said "Ugly Tomatoes." I felt grateful that tomatoes can't read. 
 
+<br/>
 
-*Q. Favourite historical figure?*
+**Q. Favourite historical figure?**
 
 Gen Rakra, a Chushi Gangdrug guerrilla fighter from Lithang county. He is best known as the leader of the "Blue Satchel Raid," one of the most important U.S. intelligence coups of the 20th century. 
 
@@ -26,36 +28,44 @@ Following U.S. withdrawal of support from the Chushi Gangdrug, the Nepalese gove
 
 The guerrillas were never informed of the contents of captured material, which included more than 1600 classified documents from the Chinese government - they were given a bag of wristwratches. The documents were cited ubiquitously in U.S. intelligence estimates throughout the 1960s, in discussing the PLA's equipment shortages, China's lack of nuclear program, etc.
 
+<br/>
 
-*Q. Thoughts on the U.S. progressive movement?*
+**Q. Thoughts on the U.S. progressive movement?**
 
 Aside from the standard historical reasons, I suspect that they have rejected Marxism because it doesn't provide enough moral denunciation for them. 
 
+<br/>
 
-*Q. Do you miss anyone?*
+**Q. Do you miss anyone?**
 
 In high school, I volunteered weekly at an aged care facility. There was a woman living there who was a former midwife. Because of her condition, she would forget who I was, and I would have to reintroduce myself to her every week. She passed away a few months before my final exams. 
 
 I let her eat my mind. Now I can't remember her name, but it started with M.
 
+<br/>
 
-*Q. Unpopular opinions?*
+**Q. Unpopular opinions?**
 
 Factionalization, mobilization, and individual behaviour during the Cultural Revolution was so defensive and reactive that China was less ideological, rather than more. 
 
 "Intellectual" conversations make for superficial friendships. I want to know how you dance, not your thoughts on Spinoza!
 
+<br/>
 
-*Q. Your biggest flaw?*
+**Q. Your biggest flaw?**
 
 Childishness - I am an adult who still cares about promises.
 
+<br/>
 
-*Q. Favourite actor?*
+**Q. Favourite actor?**
 
 Paul Dano. I turned 22 so I could be the same age as Paul Dano in "There Will Be Blood." Then I turned 23 so I could be the same age as Paul Dano in the year after he did "There Will Be Blood." 
 
+<br/>
 
-*Q. What were your dreams as a child?*
+**Q. What were your dreams as a child?**
 
 According to my parents, in kindergarten I wanted to be a zookeeper. 
+
+<br/>
