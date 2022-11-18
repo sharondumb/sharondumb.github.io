@@ -7,4 +7,7 @@ tags:
 categories: 
 ---
 
-Chickensmoothie virtual pets were basically NFTs.
+I'm going to out myself as a former "wolf girl online." 
+NFTs are just Chickensmoothie pets for weird guys.
+Closed species adoptables. 
+Ironically, back then "NFT" meant "Not for Trade." 
