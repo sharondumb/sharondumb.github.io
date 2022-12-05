@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 header: Hello!
 permalink: /
 subtitle: 
