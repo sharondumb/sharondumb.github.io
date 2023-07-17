@@ -8,7 +8,7 @@ subtitle:
 nav: true
 ---
 
-Email: [sharondu@alumni.stanford.edu](mailto:sharondu@alumni.stanford.edu) or [sharon.du@yale.edu](mailto:sharon.du@yale.edu)
+Email: [sharon.du@yale.edu](mailto:sharon.du@yale.edu)
 
 Twitter: [@SharonDu18](https://twitter.com/SharonDu18)
 
