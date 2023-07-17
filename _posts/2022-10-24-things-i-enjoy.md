@@ -7,25 +7,10 @@ tags:
 categories: 
 ---
 
-Foods: Samyang Foods Co. Buldak Hot Chicken Ramen, Monster Energy Zero Ultra.
-
-Smells: Vanilla, petrol, rain.
-
-TV shows: The Wire (2002-2008), Bojack Horseman (2014-2020).
-
-Artwork: Gareth Sansom’s “Sweeney Agonistes” (2005), Sun Yuan and Peng Yu’s “Dogs That Cannot Touch Each Other (2003).
-
-Literature: Eavan Boland’s “Atlantis: A Lost Sonnet,” Gustave Flaubert's "Madame Bovary."
-
-Films: Farewell my Concubine (1993), The Passion of Joan of Arc (1928), Y tu mamá también (2001).
-
-Games: Disco Elysium (2019), Silent Hill 2 (2001).
-
-Anime/manga: The End of Evangelion (1997), Oyasumi Punpun (2007-2013).
-
-Quotes: 
-
- 1.	“Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly, dreaming I am a man.” – Zhuangzi
-
- 2.	“House party nearby, I’m bringing weird guys.” – Bladee 
+1. Samyang Foods Co. Buldak Hot Chicken Ramen.
+2. Monster Energy Zero Ultra.
+3. Gareth Sansom’s “Sweeney Agonistes” (2005).
+4. Eavan Boland’s “Atlantis: A Lost Sonnet."
+5. Zhuangzi.
+6. Korean Instagram dogs cut into laughable shapes.
 
