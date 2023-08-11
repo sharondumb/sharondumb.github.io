@@ -9,10 +9,11 @@ categories:
 
 1. Samyang Foods Co. Buldak Hot Chicken Ramen.
 2. Monster Energy Zero Ultra.
-3. Gareth Sansom’s “Sweeney Agonistes” (2005).
+3. Gareth Sansom’s “Sweeney Agonistes."
 4. Eavan Boland’s “Atlantis: A Lost Sonnet."
 5. Gacha games (Genshin Impact, Honkai Star Rail).
 6. Zhuangzi.
-7. Disco Elysium (2019).
+7. Disco Elysium.
 8. The smells of vanilla, petrol and rain.
+9. 
 
