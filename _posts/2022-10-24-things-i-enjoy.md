@@ -13,6 +13,7 @@ categories:
 4. Eavan Boland’s “Atlantis: A Lost Sonnet."
 5. Gacha games (Genshin Impact, Honkai Star Rail).
 6. Zhuangzi.
-7. Disco Elysium.
-8. The smells of vanilla, petrol and rain.
+7. Life drawing.
+8. Disco Elysium.
+9. The smells of vanilla, petrol and rain.
 
