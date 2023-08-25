@@ -18,4 +18,3 @@ categories:
 9. Mummies 
 10. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
 11. The self-help genre
-12. Wiping dust off surfaces
