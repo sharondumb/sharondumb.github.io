@@ -11,9 +11,9 @@ categories:
 2. Monster Energy Zero Ultra.
 3. Gareth Sansom’s “Sweeney Agonistes." 
 4. Eavan Boland’s “Atlantis: A Lost Sonnet."
-5. Gacha games (Genshin Impact, Honkai Star Rail).
+5. Disco Elysium.
 6. Zhuangzi.
 7. Life drawing.
-8. Disco Elysium.
+8. Vladimir Nabokov's "Pale Fire."
 9. The smells of vanilla, petrol and rain.
 
