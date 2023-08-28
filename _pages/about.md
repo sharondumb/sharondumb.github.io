@@ -19,4 +19,4 @@ I am Sharon Du, and my pronouns are she/they. I was born in Takapuna, New Zealan
 
 In 2022, I graduated with a B.A.H. in International Relations from Stanford University. I am currently a J.D./M.A candidate at Yale Law School and Yale’s Center for East Asian Studies.
 
-I am a product of late 2000s internet forums, state propaganda, and anonymous question-asking websites. I owe over $50k in student debt.
+I am a product of late 2000s internet forums, state propaganda, and anonymous question-asking websites. 
