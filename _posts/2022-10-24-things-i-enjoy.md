@@ -14,6 +14,6 @@ categories:
 5. Disco Elysium.
 6. Zhuangzi.
 7. Life drawing.
-8. Vladimir Nabokov's "Pale Fire."
+8. Theodor Adorno.
 9. The smells of vanilla, petrol and rain.
 
