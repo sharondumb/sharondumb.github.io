@@ -17,6 +17,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am Sharon Du, and my pronouns are she/they. I was born in Takapuna, New Zealand, and my family is from Haining, China. I was largely raised in Melbourne, Australia.
 
-In 2022, I graduated with a B.A.H. in International Relations from Stanford University. I will be starting my J.D./M.A. at Yale Law School and Yale’s Center for East Asian Studies in 2023.
+In 2022, I graduated with a B.A.H. in International Relations from Stanford University. I am currently a J.D./M.A candidate at Yale Law School and Yale’s Center for East Asian Studies.
 
-I am a product of late 2000s internet forums, state propaganda, and anonymous question-asking websites.
+I am a product of late 2000s internet forums, state propaganda, and anonymous question-asking websites. 

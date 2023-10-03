@@ -17,5 +17,4 @@ categories:
 8. Optimizing
 9. Mummies 
 10. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
-11. Self-help
-12. Wiping dust off surfaces
+11. The self-help genre (propaganda)
