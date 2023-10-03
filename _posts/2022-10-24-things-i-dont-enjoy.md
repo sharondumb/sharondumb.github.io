@@ -9,12 +9,11 @@ categories:
 
 1. Meritocracy
 2. Longtermism
-3. Cops
-4. Economic imperialism (as in Lazear)
-5. Keeping my water bottle clean
-6. Star Wars
-7. Personal finance
-8. Optimizing
-9. Mummies 
-10. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
-11. The self-help genre (propaganda)
+3. Economic imperialism (as in Lazear)
+4. Keeping my water bottle clean
+5. Star Wars
+6. Personal finance
+7. Optimizing
+8. Mummies 
+9. Historical analogies (e.g. Mao-Xi "parallels," "Munich")
+10. The self-help genre
