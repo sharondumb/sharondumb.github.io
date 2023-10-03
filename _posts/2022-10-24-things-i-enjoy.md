@@ -15,5 +15,6 @@ categories:
 6. Zhuangzi
 7. Life drawing
 8. Theodor Adorno
-9. The smells of vanilla, petrol and rain
+9. Humpback whales
+10. The smells of vanilla, petrol and rain
 
