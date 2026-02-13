@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Sharon Du, and my pronouns are she/they. I was born in Takapuna, New Zealand, and my family is from Haining, China. I was largely raised in Naarm (Melbourne), Australia.
+I am Sharon Du. I was born in Takapuna, New Zealand, and my family is from Haining, China. I was largely raised in Melbourne, Australia.
 
 In 2022, I graduated with a B.A.H. in International Relations from Stanford University. I am currently a J.D. candidate at Yale Law School.
 
-I am a product of late 2000s internet forums, state propaganda, and anonymous question-asking websites. 
+I am a product of late 2000s internet forums, state propaganda, and anonymous question-asking websites.
